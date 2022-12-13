@@ -10,7 +10,8 @@ body {
     background-position-y: 85%, -60%;
     background-repeat: no-repeat, no-repeat;
     letter-spacing: 1px;
-    margin-top: 15vh;
+/*     margin-top: 15vh; */
+    height:100vh;
 }
 
 .container {
